@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Dateable {
+public class Dateable {
+
+  public static void main(String[] args) {
+      // Write your code below, inside the main method.
+    
+  }
+  
 }
